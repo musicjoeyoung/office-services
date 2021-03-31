@@ -204,10 +204,12 @@ ul {
   margin-left: 15%;
   margin-bottom: 60px;
   border-radius: 7px;
+  background-color: gainsboro;
 }
 .parentDiv {
   border: 2px solid black;
   width: 70%;
   margin-left: 15%;
   border-radius: 7px;
+  background-color: aliceblue;
 }

@@ -6,7 +6,7 @@ import Coordinator from "./Coordinator";
 import Receptionist from "./Receptionist";
 import Header from "./Header";
 import Resources from "./Resources";
-import FileUploadPage from "./FileUploadPage";
+import FileUploadPage from "./FileUploadComponent";
 //import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
 function MainPage() {
